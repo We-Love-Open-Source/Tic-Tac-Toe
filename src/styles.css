@@ -1,0 +1,108 @@
+/* Add your global styles here */
+* {
+  font-family: lato;
+}
+
+.game {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+
+.game-board {
+  margin-right: 20px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.square {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.status {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.game-info ol {
+  padding-left: 20px;
+}
+
+.game-info li {
+  margin-bottom: 10px;
+}
+
+.game-info button {
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.game-info button:hover {
+  background-color: #ddd;
+}
+
+.intro {
+  display: flex;
+}
+
+@media (max-width: 479px) {
+  /* Styles for smartphones in portrait mode */
+
+  .square {
+    background: #120e26;
+    color: #1ee0e0;
+  }
+
+  .jumpTo {
+    background-color: #8fdddd !important;
+    color: #120e26;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+  html {
+    /* Styles for smartphones in landscape mode */
+    background: #120e26;
+    color: #1ee0e0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* Styles for tablets */
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  /* Styles for small desktop screens */
+  html {
+    background: #120e26;
+    color: #1ee0e0;
+  }
+}
+
+@media (min-width: 1280px) and (max-width: 1439px) {
+  /* Styles for medium desktop screens */
+}
+
+@media (min-width: 1440px) {
+  /* Styles for large desktop screens */
+}
+
+@media (min-width: 1920px) {
+  /* Styles for TVs and large screens */
+}
