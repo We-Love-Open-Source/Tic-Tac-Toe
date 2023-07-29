@@ -6,7 +6,8 @@
 ## Community
 We would love to hear from you! We communicate on Telgram/ Slack:
 
-[![Telegram/Slack](https://t.me/+kTc368F6LZ44Njk9)
+[Join our Telegram Group](https://t.me/+kTc368F6LZ44Njk9)
+
 
 ## Code of Conduct
 We follow the [Code of Conduct](code-of-conduct.md) of the [We Love Open Source](https://we-love-opensource..netlify.com) Community.
