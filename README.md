@@ -1,4 +1,4 @@
-<img src="/assets/images/tic tac toe.png" alt="Tic Tac Toe logo" width="736"/> </br></br>
+<img src="/assets/images/Tic Tac Toe.JPG" alt="Tic Tac Toe logo" width="736"/> </br></br>
 
 -----
 [Tic Tac Toe](https://lj998z.csb.app/) is a free, open-source game built with Reactjs, Javascript, HTML and CSS . It Indicates when a player has won the game, atores a game’s history as a game progresses, allows players to review a game’s history and see previous versions of a game’s board. More features are in the planning and development stage.
